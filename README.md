@@ -42,7 +42,7 @@ The complete theme is contained in a single CSS file. Custom navigation artwork 
 
 ## Screenshots
 
-Screenshots of the finished theme will be added here.
+![NieR Automata Style Theme for Pear Desktop](assets/nier-automata-theme.png)
 
 ---
 
