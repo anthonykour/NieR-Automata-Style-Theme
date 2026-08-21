@@ -1,6 +1,6 @@
 # NieR Automata Style Theme
 
-A custom **NieR:Automata / YoRHa-inspired theme** for YouTube Music, designed primarily for **Pear Desktop**.
+A custom **NieR:Automata / YoRHa-inspired theme** for YouTube Music, designed primarily for **[Pear Desktop](https://github.com/pear-devs/pear-desktop)**.
 
 This theme uses a dark black-and-charcoal interface with warm ivory and muted yellow accents inspired by the visual language of NieR:Automata and YoRHa system interfaces.
 
@@ -26,7 +26,7 @@ The complete theme is contained in a single CSS file. Custom navigation artwork 
 
 ## Installation
 
-### Pear Desktop
+### [Pear Desktop](https://github.com/pear-devs/pear-desktop)
 
 1. Download `NieR-Automata-Style-Theme.css`.
 2. Open **Pear Desktop**.
@@ -48,11 +48,11 @@ The complete theme is contained in a single CSS file. Custom navigation artwork 
 
 ## Credits
 
-This project originated from my personal modifications to the **Eggplant** YouTube Music theme.
+This project originated from my personal modifications to the **[Eggplant](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#eggplant)** YouTube Music theme.
 
-Based on CSS themes originally created by **OceanicSquirrel**.
+Based on CSS themes originally created by **[OceanicSquirrel](https://github.com/OceanicSquirrel)**.
 
-A maintained collection of the original YouTube Music Desktop themes is available from **kerichdev's themes-for-ytmdesktop-player** project.
+A maintained collection of the original YouTube Music Desktop themes is available from **[kerichdev's themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player)** project.
 
 The NieR:Automata-inspired modifications, Pear Desktop compatibility updates, custom navigation styling, branding, and additional theme work are part of this project.
 
